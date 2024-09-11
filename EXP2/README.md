@@ -1,5 +1,5 @@
-DNS
-Experiment: 3
+                                                                DNS
+Experiment:2
 Aim: To create and configure DNS Server
 Description:
 DNS Server
