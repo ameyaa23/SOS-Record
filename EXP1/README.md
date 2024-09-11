@@ -1,5 +1,5 @@
 SAMBA SHARE
-Experiment: 2
+Experiment: 1
 Aim: Installation and configuration of Samba share.
 Description:
 
